@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jolley71717.TestRounds" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-10T07:47:24" hostname="LukesPesonalMac" time="0.033">
-  <properties/>
-  <testcase name="testCasesTotalScore()" classname="com.jolley71717.TestRounds" time="0.025"/>
-  <testcase name="testBetterIncrement()" classname="com.jolley71717.TestRounds" time="0.007"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
