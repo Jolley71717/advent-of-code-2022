@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jolley71717.TestIncrease" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-10T06:44:02" hostname="LukesPesonalMac" time="0.04">
+  <properties/>
+  <testcase name="testBetterIncrement()" classname="com.jolley71717.TestIncrease" time="0.04"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
