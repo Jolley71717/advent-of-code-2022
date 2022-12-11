@@ -8,4 +8,4 @@ pluginManagement {
 }
 rootProject.name = "AdventOfCode2022"
 
-include(":day1", ":day2")
+include(":day1", ":day2", ":day10")
